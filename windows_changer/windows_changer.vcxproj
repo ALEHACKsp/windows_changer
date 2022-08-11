@@ -75,7 +75,7 @@
     <IncludePath>$(SolutionDir)\windows_changer\freetype\headers\;$(IncludePath)</IncludePath>
     <LibraryPath>$(SolutionDir)\windows_changer\freetype\lib\;$(LibraryPath)</LibraryPath>
     <OutDir>../release/</OutDir>
-    <IntDir>../reelase/log/</IntDir>
+    <IntDir>../release/log/</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <IncludePath>$(SolutionDir)\windows_changer\freetype\headers\;$(IncludePath)</IncludePath>

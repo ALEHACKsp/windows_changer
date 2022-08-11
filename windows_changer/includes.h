@@ -16,7 +16,6 @@
 #include <d3d9.h>
 #pragma comment(lib,"d3d9.lib")
 
-
 namespace cfg {
 	inline bool m_change_themes{};
 	inline bool m_windows_dark_mode{};
