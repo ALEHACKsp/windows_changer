@@ -1,5 +1,4 @@
 # Windows Changer ![Platform](https://img.shields.io/badge/platform-windows-blue?style=flat) ![LANG](https://img.shields.io/badge/language-C%2B%2B-brightgreen?style=flat ) 
-Made for developers who need this code, not for normal Windows users.
 # Features
 - Windows wallpaper changer 
 - Enable Windows light theme
